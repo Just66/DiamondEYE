@@ -14,7 +14,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    
+    // im just writing here smth
     var targetValue: Int = 0
     var currentValue: Int = 50
     var score = 0
