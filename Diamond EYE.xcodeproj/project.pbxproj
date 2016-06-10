@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E60E0F0C1C874AE900453C14 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E60E0F0B1C874AE900453C14 /* AboutViewController.swift */; };
 		E68A42431C7F493500671D8E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E68A42421C7F493500671D8E /* AppDelegate.swift */; };
 		E68A42451C7F493500671D8E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E68A42441C7F493500671D8E /* ViewController.swift */; };
 		E68A42481C7F493500671D8E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E68A42461C7F493500671D8E /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E60E0F0B1C874AE900453C14 /* AboutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 		E68A423F1C7F493500671D8E /* Diamond EYE.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Diamond EYE.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E68A42421C7F493500671D8E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E68A42441C7F493500671D8E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				E68A42421C7F493500671D8E /* AppDelegate.swift */,
 				E68A42441C7F493500671D8E /* ViewController.swift */,
+				E60E0F0B1C874AE900453C14 /* AboutViewController.swift */,
 				E68A42461C7F493500671D8E /* Main.storyboard */,
 				E68A42491C7F493500671D8E /* Assets.xcassets */,
 				E68A424B1C7F493500671D8E /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E60E0F0C1C874AE900453C14 /* AboutViewController.swift in Sources */,
 				E68A42451C7F493500671D8E /* ViewController.swift in Sources */,
 				E68A42431C7F493500671D8E /* AppDelegate.swift in Sources */,
 			);
@@ -287,6 +291,7 @@
 				E68A42531C7F493500671D8E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
