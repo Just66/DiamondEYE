@@ -74,7 +74,7 @@ class ViewController: UIViewController {
 score += points
 
 
-        let message = "You scored \(points) points"
+        let message = "You scored \(points) points" + "\nThe difference between your choice and the number is: \(difference)"
         //"The value of the slider is: \(currentValue)" + "\nThe target value is: \(targetValue)"
         //+ "\nThe difference is: \(difference)"
         
